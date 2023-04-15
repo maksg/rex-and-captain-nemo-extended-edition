@@ -1,0 +1,4 @@
+go.ann|load
+go.ann|play|go
+go.ann|__wait__
+scene|__end__

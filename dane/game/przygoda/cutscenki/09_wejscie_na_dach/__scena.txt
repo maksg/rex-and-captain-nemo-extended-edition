@@ -1,0 +1,13 @@
+scene|setmusic|orient_express
+sfx_train_inside.wav|play|loop
+
+klapa_bkg.img|loadbkg
+kret.ann|load
+end.ann|load|100
+end.ann|play|open
+kret.ann|play
+kret.ann|__wait__
+end.ann|play
+end.ann|__wait__
+
+scene|__end__

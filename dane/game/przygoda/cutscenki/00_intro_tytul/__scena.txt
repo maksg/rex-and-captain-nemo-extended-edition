@@ -1,0 +1,7 @@
+scene|setmusic|intro
+tytul.ann|loadmulti
+tytul.ann|play
+tytul.ann|__wait__
+end.ann|load|100
+end.ann|play
+scene|__end__

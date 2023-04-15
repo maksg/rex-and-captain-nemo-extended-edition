@@ -1,0 +1,10 @@
+scene|setmusic|dorozka
+sfx_dorozka_cut.wav|play|loop
+dorozka.ann|loadmulti|1
+dorozka.ann|play
+int_narr01.wav|play
+dorozka.ann|__wait__
+end.ann|load|10
+end.ann|play
+end.ann|__wait__
+scene|__end__

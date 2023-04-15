@@ -8,4 +8,5 @@ microsoft.vc80.crt.manifest
 nemo.ini
 *.exe
 *.dll
+*.tmp
 .DS_Store

@@ -1,10 +1,8 @@
-common
+common/save/global_info.dta
 microsoft.vc80.crt
 am.url
-bloomoo.ini
 install.bmp
 install.ini
-microsoft.vc80.crt.manifest
 nemo.ini
 *.exe
 *.dll

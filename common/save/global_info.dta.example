@@ -1,0 +1,17 @@
+game_status|intro_tytul
+slot0_status|empty
+slot1_status|empty
+slot2_status|empty
+slot3_status|empty
+slot0_music_volume|700
+slot1_music_volume|700
+slot2_music_volume|700
+slot3_music_volume|700
+slot0_difficulty|normal
+slot1_difficulty|normal
+slot2_difficulty|normal
+slot3_difficulty|normal
+slot0_intro|nieodwiedzony
+slot1_intro|nieodwiedzony
+slot2_intro|nieodwiedzony
+slot3_intro|nieodwiedzony

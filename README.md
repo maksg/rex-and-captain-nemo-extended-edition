@@ -6,9 +6,9 @@ Oficjalne repozytorium fanowskiego rozszerzenia do gry Reksio i Kapitan Nemo.
 
 ### Konfiguracja projektu
 
-1. Zainstaluj grę Reksio i Kapitan Nemo.
-2. Sklonuj repozytorium.
-3. Skopiuj brakujące pliki z folderu z grą (domyślnie "C:\Program Files\AidemMedia\Reksio i Kapitan Nemo") i wklej je do folderu z projektem.
+1. Sklonuj repozytorium.
+2. Skopiuj plik common/save/global_info.dta.example i zmień jego nazwę na global_info.dta
+3. Skopiuj plik nemo.ini.example i zmień jego nazwę na nemo.ini
 4. Rozpocznij pracę.
 
 ## English
@@ -17,7 +17,7 @@ Official repository for a fan-made extension of Rex and Captain Nemo game.
 
 ### Project setup
 
-1. Install the game Rex and Captain Nemo.
-2. Clone the repository.
-3. Copy missing files from game directory (default "C:\Program Files\AidemMedia\Reksio i Kapitan Nemo") and paste them into project directory.
+1. Clone the repository.
+2. Copy file common/save/global_info.dta.example and change its name to global_info.dta
+3. Copy file nemo.ini.example and change its name to nemo.ini
 4. Start working.

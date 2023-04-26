@@ -1,0 +1,29 @@
+name: Create installer
+run-name: ${{ github.actor }} is creating installer
+
+on:
+  push:
+    tags:
+    - '*'
+
+permissions:
+  contents: write 
+
+jobs:
+  create_installer:
+    name: Create installer
+    runs-on: windows-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Make NSIS installer
+      uses: joncloud/makensis-action@v4
+      with:
+        script-file: "installer.nsi"
+
+    - name: Create release
+      uses: softprops/action-gh-release@v1
+      with:
+        files: "RaCN-EE-setup.exe"

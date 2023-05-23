@@ -7,4 +7,6 @@ nemo.ini
 *.exe
 *.dll
 *.tmp
+*.log
+*.rar
 .DS_Store

@@ -165,7 +165,7 @@ balon_gotowy|Rex_E464|rex
 click2_balon_kreta_lot|Kret_E465|rex|f__
 click2_balon_kreta_braki|Kret_E466|rex|f__
 rem|---------------------------------- pl3 - brama
-wstep3|Kret_E057
+wstep3|Kret_E057|rex|f__
 wstep3b|Stra_E384|annObj3_2|szkot_
 wstep3b|Kret_E385|rex|f__
 wstep3b|Stra_E386|annObj3_2|szkot_
@@ -256,6 +256,8 @@ use_moneta_na_palnik_kupiec4|Kup3_E398|annObj3_1|kupiec_
 use_moneta_na_palnik_kupiec4|Kret_E399|rex|f__
 click3_kupiec|Kret_E400|rex|f__
 click3_kupiec|Kup3_E401|annObj3_1|kupiec_
+przekupnienie_szkota|stra_e080|annObj3_2|szkot_
+wstep4_przekupienie|nar_e155
 rem|---------------------------------- pl4 - wykopaliska
 wstep4a|Nar_E153
 wstep4b|Kret_E154

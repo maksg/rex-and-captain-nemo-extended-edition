@@ -188,24 +188,8 @@ kalkuta_port_kari.ann|play|idle
 kalkuta_port_kret.ann|play|idle
 kalkuta_port_rex.ann|play|idle
 
-nemo_i353.wav|play
-nemo_i353.wav|__wait__
-
-kalkuta_port_nemo.ann|play|idle
-kalkuta_port_kari.ann|play|idle
-kalkuta_port_kret.ann|play|gada
-kalkuta_port_rex.ann|play|idle
-
-kret_i354.wav|play
-kret_i354.wav|__wait__
-
-kalkuta_port_nemo.ann|play|gada
-kalkuta_port_kari.ann|play|idle
-kalkuta_port_kret.ann|play|idle
-kalkuta_port_rex.ann|play|idle
-
-nemo_i355.wav|play
-nemo_i355.wav|__wait__
+nemo_i365.wav|play
+nemo_i365.wav|__wait__
 
 kalkuta_port_nemo.ann|play|idle
 kalkuta_port_kari.ann|play|idle

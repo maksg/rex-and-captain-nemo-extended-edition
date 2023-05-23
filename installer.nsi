@@ -1,4 +1,4 @@
-﻿;NSIS Modern User Interface
+;NSIS Modern User Interface
 ;Multilingual Example Script
 ;Written by Joost Verburg
 
@@ -143,8 +143,8 @@ Section "Game" Game
 
   SetOutPath "$INSTDIR"
   
-  File "bloomoo.ini"
-  File "bloomoodll.dll"
+  File "BlooMoo.ini"
+  File "BlooMooDLL.dll"
   File "dorozka.wav"
   File "dziki_zachod.wav"
   File "egipt.wav"
@@ -157,18 +157,18 @@ Section "Game" Game
   File "konstantynopol.wav"
   File "kretes.wav"
   File "masajaje.wav"
-  File "microsoft.vc80.crt.manifest"
+  File "Microsoft.VC80.CRT.manifest"
   File "msvcm80.dll"
   File "msvcp80.dll"
   File "msvcr80.dll"
   File "mu.wav"
   File "nautilus.wav"
-  File "nemo.exe"
-  File "/oname=nemo.ini" "nemo.ini.example"
+  File "Nemo.exe"
+  File "/oname=Nemo.ini" "Nemo.ini.example"
   File "orient_express.wav"
   File "paryz.wav"
   File "rejs.wav"
-  File "snddll.dll"
+  File "sndDLL.dll"
   File "wieza.wav"
   File "wyspa.wav"
 
@@ -206,7 +206,7 @@ Section "Game" Game
  
   ;Start Menu
   SetOutPath "$INSTDIR"
-  CreateShortcut "$SMPROGRAMS\$(NAME).lnk" "$INSTDIR\nemo.exe" "" ""
+  CreateShortcut "$SMPROGRAMS\$(NAME).lnk" "$INSTDIR\Nemo.exe" "" ""
   
   ;Store installation folder
   WriteRegStr HKCU "${REGISTRY_KEY}" "ProgramPath" $INSTDIR
@@ -241,8 +241,8 @@ Section "Uninstall"
   RMDir /r "$INSTDIR\dane"
   RMDir /r "$INSTDIR\wavs"
   
-  Delete "$INSTDIR\bloomoo.ini"
-  Delete "$INSTDIR\bloomoodll.dll"
+  Delete "$INSTDIR\BlooMoo.ini"
+  Delete "$INSTDIR\BlooMooDLL.dll"
   Delete "$INSTDIR\dorozka.wav"
   Delete "$INSTDIR\dziki_zachod.wav"
   Delete "$INSTDIR\egipt.wav"
@@ -255,18 +255,18 @@ Section "Uninstall"
   Delete "$INSTDIR\konstantynopol.wav"
   Delete "$INSTDIR\kretes.wav"
   Delete "$INSTDIR\masajaje.wav"
-  Delete "$INSTDIR\microsoft.vc80.crt.manifest"
+  Delete "$INSTDIR\Microsoft.VC80.CRT.manifest"
   Delete "$INSTDIR\msvcm80.dll"
   Delete "$INSTDIR\msvcp80.dll"
   Delete "$INSTDIR\msvcr80.dll"
   Delete "$INSTDIR\mu.wav"
   Delete "$INSTDIR\nautilus.wav"
-  Delete "$INSTDIR\nemo.exe"
-  Delete "$INSTDIR\nemo.ini"
+  Delete "$INSTDIR\Nemo.exe"
+  Delete "$INSTDIR\Nemo.ini"
   Delete "$INSTDIR\orient_express.wav"
   Delete "$INSTDIR\paryz.wav"
   Delete "$INSTDIR\rejs.wav"
-  Delete "$INSTDIR\snddll.dll"
+  Delete "$INSTDIR\sndDLL.dll"
   Delete "$INSTDIR\wieza.wav"
   Delete "$INSTDIR\wyspa.wav"
   

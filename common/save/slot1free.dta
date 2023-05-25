@@ -15,6 +15,24 @@ arcade_leader_pos_y|0
 cs_scene_name|00a_intro
 cs_do_mu_status|nieodwiedzony
 cs_outro_status|nieodwiedzony
+-----------------------------|Arcade - niemcy
+niemcy_status|nieodwiedzony
+niemcy_plansza_no|1
+niemcy1_first_time|true
+niemcy2_first_time|true
+niemcy6_first_time|true
+niemcy4_first_time|true
+misjastudnia|1
+misjaprojekt|0
+misjaaparat|0
+misjakable|0
+-----------------------------|Arcade - londyn
+londyn_status|nieodwiedzony
+londyn_plansza_no|1
+misjakoziol|0
+misjamieszczanka|0
+misjastraznik|0
+londyn6_first_time|true
 -----------------------------|Arcade - paryz
 paryz_status|nieodwiedzony
 paryz_plansza_no|1
@@ -224,6 +242,9 @@ lotb_etap|1
 -----------------------------|Game - Dzungla
 dzungla_status|nieodwiedzony
 dzungla_level|1
+-----------------------------|Game - Amazonia
+amazonia_status|nieodwiedzony
+amazonia_level|1
 -----------------------------|Game - Tunel
 tunel_status|nieodwiedzony
 tunel_level|1

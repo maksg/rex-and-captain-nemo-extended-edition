@@ -1,0 +1,78 @@
+rem|--------------------------------- pl1 - stacja
+pociag_click1A|kretes_rikner38|rex|f__
+rem|--------------------------------- pl2 - miasto
+robinson_click1A|kretes_rikner2|rex|f__
+robinson_click1A|rex_u209|rex
+robinson_click1B|robinson_rikner1
+robinson_click2A|kretes_rikner3|rex|f__
+robinson_click2B|robinson_rikner2
+robinson_click2C|kretes_rikner4|rex|f__
+robinson_click2D|robinson_rikner3
+robinson_click2E|kretes_rikner5|rex|f__
+robinson_click3A|robinson_rikner5
+robinson_click4A|kretes_rikner11|rex|f__
+robinson_click4B|robinson_rikner4
+kretes_naplac1A|kretes_rikner6|rex|f__
+herbata1A|herb_rikner1
+herbata1B|kretes_rikner7|rex|f__
+herbata2A|herb_rikner1
+herbata2B|kretes_rikner8|rex|f__
+herbata2C|herb_rikner2
+herbata2D|kretes_rikner9|rex|f__
+herbata2D|rex_u209|rex
+herbata3A|kretes_rikner10|rex|f__
+herbata3B|herb_rikner3
+herbata4A|kretes_rikner28|rex|f__
+herbata4B|herb_rikner4
+herbata4C|kretes_rikner29|rex|f__
+herbata4D|herb_rikner5
+herbata4E|kretes_rikner30|rex|f__
+herbata4F|rex_u209|rex
+herbata5A|kretes_rikner35|rex|f__
+herbata5B|herb_rikner6
+rem|--------------------------------- pl3 - rzeka
+mieszczanka_click1A|mieszczanka_rikner1
+mieszczanka_click1B|kretes_rikner14|rex|f__
+mieszczanka_click2A|kretes_rikner19|rex|f__
+mieszczanka_click2B|mieszczanka_rikner2
+mieszczanka_click2C|kretes_rikner20|rex|f__
+mieszczanka_click2D|mieszczanka_rikner3
+mieszczanka_click3A|kretes_rikner21|rex|f__
+mieszczanka_click3B|mieszczanka_rikner3
+mieszczanka_click4A|mieszczanka_rikner4
+chain_click1A|kretes_rikner15|rex|f__
+chain_click2A|kretes_rikner16|rex|f__
+maskadrabina_click1A|kretes_rikner22|rex|f__
+maskadrabina_click2A|kretes_rikner23|rex|f__
+rem|--------------------------------- pl4 - zamek
+straznik_click1A|kretes_rikner1|rex|f__
+straznik_click1A|Rex_M138|rex
+straznik_click2A|kretes_rikner25|rex|f__
+straznik_click3A|kretes_rikner27|rex|f__
+straznik_click3B|straznik_rikner1
+straznik_click4A|kretes_rikner31|rex|f__
+straznik_click4B|straznik_rikner2
+straznik_click4C|kretes_rikner32|rex|f__
+straznik_click5A|kretes_rikner34|rex|f__
+straznik_click5B|straznik_rikner3
+straznik_click6A|kretes_rikner36|rex|f__
+straznik_click6B|straznik_rikner4
+rem|--------------------------------- pl5 - plac
+gazeciarz_click1A|gaze_rikner2
+gazeciarz_click2A|kretes_rikner12|rex|f__
+gazeciarz_click2B|gaze_rikner1
+gazeciarz_click3A|kretes_rikner17|rex|f__
+gazeciarz_click3B|gaze_rikner3
+gazeciarz_click3C|kretes_rikner18|rex|f__
+gazeciarz_click3D|gaze_rikner4
+gazeciarz_click4A|kretes_rikner26|rex|f__
+gazeciarz_click4B|gaze_rikner5
+gazeciarz_click5A|kretes_rikner33|rex|f__
+gazeciarz_click5B|gaze_rikner6
+rem|--------------------------------- pl6 - mieszkania
+wstep6A|kretes_rikner13|rex|f__
+kretes_dodomu1A|kretes_rikner6|rex|f__
+rem|--------------------------------- pl7 - dach
+rem|--------------------------------- pl8 - dom
+maskaskrzynia_click1A|kretes_rikner24|rex|f__
+maskaskrzynia_click2A|kretes_rikner37|rex|f__

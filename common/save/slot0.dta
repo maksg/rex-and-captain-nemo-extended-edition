@@ -1,41 +1,59 @@
 -----------------------------|Global Info
-scene_code|cint
-scene_name|CutScenki
+scene_code|ALON
+scene_name|ARCADE
 scene_info|
 inventory|
 notes|X1110000000000000000000000000000000X
 notes_strona|1
 -----------------------------|Arcade Info
-arcade_scene_name|paryz
+arcade_scene_name|NIEMCY
 arcade_scroll_pos_x|0
 arcade_scroll_pos_y|0
-arcade_leader_pos_x|0
-arcade_leader_pos_y|0
+arcade_leader_pos_x|11
+arcade_leader_pos_y|12
 -----------------------------|CS Info
-cs_scene_name|00a_intro
-cs_do_mu_status|nieodwiedzony
-cs_outro_status|nieodwiedzony
+cs_scene_name|CS_TOLONDON
+cs_do_mu_status|UKONCZONY
+cs_outro_status|UKONCZONY
+-----------------------------|Arcade - niemcy
+niemcy_status|UKONCZONY
+niemcy_plansza_no|1
+niemcy1_first_time|true
+niemcy2_first_time|true
+niemcy6_first_time|true
+niemcy4_first_time|true
+misjastudnia|0
+misjaprojekt|0
+misjaaparat|0
+misjakable|0
+-----------------------------|Arcade - londyn
+londyn_status|UKONCZONY
+londyn_plansza_no|1
+misjakoziol|0
+misjamieszczanka|0
+misjastraznik|0
+londyn6_first_time|FALSE
 -----------------------------|Arcade - paryz
-paryz_status|nieodwiedzony
-paryz_plansza_no|1
-paryz_misja_bagietka|0
-paryz_misja_paczka|0
-paryz_misja_pascal|0
+paryz_status|UKONCZONY
+paryz_plansza_no|4
+paryz_misja_bagietka|4
+paryz_misja_paczka|3
+paryz_misja_pascal|1
 paryz_misja_krasnal|0
-paryz_drzwi_klik_no|0
+paryz_drzwi_klik_no|1
 ----|plan 1
-paryz_plansza1_path_set|gora
+paryz_plansza1_path_set|GORA
 paryz_plansza1_studzienka|0
-paryz_plansza1_lampa_u|0
-paryz_plansza1_lampa_d|0
-paryz_plansza1_drzwi_se|0
+paryz_plansza1_lampa_u|1
+paryz_plansza1_lampa_d|1
+paryz_plansza1_drzwi_se|2
 paryz_plansza1_adres_drzwi1|0
 paryz_plansza1_adres_drzwi2|0
 ----|plan 2
 paryz_plansza2_adres_drzwi3|0
 ----|plan 3
-paryz_plansza3_lampa|0
-paryz_plansza3_drzwi_nw|0
+paryz_plansza3_lampa|1
+paryz_plansza3_drzwi_nw|1
 paryz_plansza3_studzienka_e|0
 paryz_plansza3_studzienka_se|0
 paryz_plansza3_studzienka_sw|0
@@ -52,29 +70,29 @@ paryz_plansza4_studzienka_f|0
 paryz_plansza4_studzienka_g|0
 paryz_plansza4_studzienka_h|0
 -----------------------------|Arcade - konst_przedzialy
-konst_przedzialy_status|nieodwiedzony
+konst_przedzialy_status|UKONCZONY
 konst_przedzialy_level|1
 konst_przedzialy_przedzial_holmesa|0
 konst_przedzialy_kret_inside|true
 konst_przedzialy_zyrafa|0
 -----------------------------|Arcade - konstantynopol
-konst1_status|nieodwiedzony
-konst2_status|nieodwiedzony
+konst1_status|UKONCZONY
+konst2_status|UKONCZONY
 konst_level|1
 konst_misja_rodak|0
 -----------------------------|Arcade - awaria_statku
-awaria_status|nieodwiedzony
+awaria_status|UKONCZONY
 awaria_francuz_pos|0
 awaria_stan_mod_a|0
 awaria_stan_mod_b|0
 awaria_stan_mod_c|1
 -----------------------------|Arcade - egipt
-egipt1_status|nieodwiedzony
-egipt2_status|nieodwiedzony
-egipt3_status|nieodwiedzony
-egipt4_status|nieodwiedzony
+egipt1_status|UKONCZONY
+egipt2_status|UKONCZONY
+egipt3_status|UKONCZONY
+egipt4_status|UKONCZONY
 egipt_level|1
-egipt_plansza_no|1
+egipt_plansza_no|4
 egipt_przebranie|null
 egipt_budowa_balonu|0
 egipt_plansza1_first_time|true
@@ -90,7 +108,7 @@ egipt_plansza2_balon_first_time|true
 egipt_plansza2_kupiec_item1|sfinks
 egipt_plansza2_kupiec_item2|piramida_sniegu
 egipt_plansza2_kupiec_item3|kair_noca
-egipt_plansza3_first_time|true
+egipt_plansza3_first_time|FALSE
 egipt_plansza3_straznik_first_time|true
 egipt_plansza3_notes_first_time|true
 egipt_plansza3_kupiec_item1|nilus
@@ -129,8 +147,10 @@ egipt_plansza7_first_time|true
 egipt_plansza12_first_time|true
 egipt_plansza12_amfora_stan|0
 egipt_plansza12_bd2_click|0
+egipt_przekupienie|0
+egipt_plansza4_first_time_przekupienie|FALSE
 -----------------------------|Arcade - wioska masajow
-wioska_status|nieodwiedzony
+wioska_status|UKONCZONY
 wioska_level|1
 wioska_plansza_no|1
 wioska_plansza1_nemo_click|0
@@ -148,8 +168,8 @@ wioska_plansza4_first_time|true
 wioska_plansza5_first_time|true
 wioska_plansza5_nautilus_click|0
 -----------------------------|Arcade - szangrila
-szangrila1_status|nieodwiedzony
-szangrila2_status|nieodwiedzony
+szangrila1_status|UKONCZONY
+szangrila2_status|UKONCZONY
 szangrila_plansza_no|1
 szangrila_misja_kangur|0
 szangrila_plansza1_hanoi|0
@@ -162,7 +182,7 @@ szangrila_plansza3_first_time|true
 szangrila_plansza4_first_time|true
 szangrila_plansza9_tablica_ak_click|0
 -----------------------------|Arcade - wyspa
-wyspa_status|nieodwiedzony
+wyspa_status|UKONCZONY
 wyspa_plansza_no|1
 wyspa_kretes_jest|true
 wyspa_plansza1_graty|X00000X
@@ -178,8 +198,8 @@ wyspa_plansza2_babc|0
 wyspa_plansza3_first_time|true
 wyspa_plansza3_posag_click|0
 -----------------------------|Arcade - dziki zachod
-dziki1_status|nieodwiedzony
-dziki2_status|nieodwiedzony
+dziki1_status|UKONCZONY
+dziki2_status|UKONCZONY
 dziki_level|1
 dziki_plansza_no|1
 dziki_graty|X00000000X
@@ -196,7 +216,7 @@ dziki_plansza6_first_time|true
 dziki_plansza7_first_time|true
 dziki_plansza10_first_time|true
 -----------------------------|Arcade - machina
-machina_status|nieodwiedzony
+machina_status|UKONCZONY
 machina_plansza_no|1
 machina_machina_stan|X000000000000X
 machina_panel_stan|X000000X
@@ -204,47 +224,47 @@ machina_plansza1_przyciski_click|0
 machina_plansza1_elem_b_click|0
 machina_plansza1_panel|niema
 -----------------------------|Game - EifelTower
-nautilus_status|nieodwiedzony
-eifel_status|nieodwiedzony
+nautilus_status|UKONCZONY
+eifel_status|UKONCZONY
 eifel_level|1
 -----------------------------|Game - Dorozka
-dorozka_status|nieodwiedzony
+dorozka_status|UKONCZONY
 -----------------------------|Game - OnOrientExpress
-onoex_status|nieodwiedzony
+onoex_status|UKONCZONY
 -----------------------------|Game - Targowisko
-targ_status|nieodwiedzony
+targ_status|UKONCZONY
 targ_enemy_coll_no|0
 -----------------------------|Game - Wykopaliska
-wykop1_status|nieodwiedzony
-wykop2_status|nieodwiedzony
+wykop1_status|UKONCZONY
+wykop2_status|UKONCZONY
 wykop_level|1
 -----------------------------|Game - LotBalonem
-lotb_status|nieodwiedzony
+lotb_status|UKONCZONY
 lotb_etap|1
 -----------------------------|Game - Dzungla
-dzungla_status|nieodwiedzony
+dzungla_status|UKONCZONY
 dzungla_level|1
 -----------------------------|Game - Tunel
-tunel_status|nieodwiedzony
+tunel_status|UKONCZONY
 tunel_level|1
 -----------------------------|Game - Kolej
-kolej_status|nieodwiedzony
+kolej_status|UKONCZONY
 kolej_etap|1
 kolej_first_track|true
 kolej_first_station|true
 -----------------------------|Game - Hanoi
-hanoi_status|nieodwiedzony
+hanoi_status|UKONCZONY
 -----------------------------|Game - Rownowaga
-rownowaga_status|nieodwiedzony
+rownowaga_status|UKONCZONY
 rownowaga_kto|rex
 -----------------------------|Game - Slon
-slon_status|nieodwiedzony
+slon_status|UKONCZONY
 slon_etap|0
 slon_ekrany|0
 slon_ekrany_tmp|0
 -----------------------------|Game - BdUSA
-bdusa_status|nieodwiedzony
+bdusa_status|UKONCZONY
 -----------------------------|Game - notes-mapa
-notes_mapa_status|nieodwiedzony
+notes_mapa_status|UKONCZONY
 -----------------------------|Game - wegorze
-wegorze_status|nieodwiedzony
+wegorze_status|UKONCZONY

@@ -1,0 +1,53 @@
+rem|--------------------------------- pl1 - podworko
+wstep1a|narrator_rikner1
+wstep1a|kretes_rikner44|rex|f__
+take1_screw1|kretes_rikner51|rex|f__
+take1_lead|kretes_rikner52|rex|f__
+studnia_ready|kretes_rikner53|rex|f__
+studnia_opuszczenie|kretes_rikner54|rex|f__
+rem|--------------------------------- pl2 - kurniki
+wstep2a|kretes_rikner45|rex|f__
+take2_screw2|kretes_rikner57|rex|f__
+take2_care|kretes_rikner56|rex|f__
+take2_fishnet|kretes_rikner58|rex|f__
+rem|--------------------------------- pl3 - warsztat
+hahn_item1|hahn_rikner13|annHahn|gada
+hahn_item2a|hahn_rikner14|annHahn|gada
+hahn_item2b|Rex_M145|rex
+hahn_item2c|kretes_rikner64|rex|f__
+hahn_item3|Hahn_RIKNER3|annHahn|gada
+hahn_item4|Hahn_RIKNER4|annHahn|gada
+hahn_item5|Hahn_RIKNER5|annHahn|gada
+hahn_item6|Hahn_RIKNER6|annHahn|gada
+hahn_item7|Hahn_RIKNER7|annHahn|gada
+hahn_item8|Hahn_RIKNER8|annHahn|gada
+hahn_item9|Hahn_RIKNER9|annHahn|gada
+hahn_click1|Hahn_RIKNER10|annHahn|gada
+sukces1|Hahn_RIKNER11|annHahn|gada
+rem|--------------------------------- pl4 - staw
+wstep4a|kretes_rikner47|rex|f__
+drzymala|kretes_rikner48|rex|f__
+maskastaw_click1a|kretes_rikner43|rex|f__
+drzymala|kretes_rikner48|rex|f__
+take4_bucket|kretes_rikner49|rex|f__
+take4_fish|kretes_rikner50|rex|f__
+rem|--------------------------------- pl5 - studnia
+take5_helmet|kretes_rikner59|rex
+take5_chair|kretes_rikner60|rex
+studnia_wciagniecie|kretes_rikner61|rex
+rem|--------------------------------- pl6 - targ
+kot_click1A|Kot_RIKNER1|annKot|gada
+kot_click1B|Rex_M145|rex
+KOT_ASKAPARAT1A|kretes_rikner62|rex|f__
+KOT_ASKAPARAT1B|Kot_RIKNER2|annKot|gada
+KOT_ASKAPARAT1C|kretes_rikner63|rex|f__
+KOT_NOAPARAT1A|Kot_RIKNER3|annKot|gada
+KOT_YESAPARAT1A|Kot_RIKNER4|annKot|gada
+KOT_YESAPARAT1B|kretes_rikner65|rex|f__
+KOT_YESAPARAT1C|Rex_M145|rex
+KOT_YESAPARAT1D|kretes_rikner66|rex|f__
+wstep6a|kretes_rikner46|rex|f__
+wstep6a|rex_u076|rex
+KABLE_CLICK1A|kretes_rikner67|rex|f__
+KABLE_CLICK2A|kretes_rikner68|rex|f__
+KABLE_CLICK3A|kretes_rikner69|rex|f__

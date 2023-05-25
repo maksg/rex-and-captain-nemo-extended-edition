@@ -8,7 +8,7 @@ Oficjalne repozytorium fanowskiego rozszerzenia do gry Reksio i Kapitan Nemo.
 
 1. Sklonuj repozytorium.
 2. Skopiuj plik `common/save/global_info.dta.example` i zmień jego nazwę na `global_info.dta`.
-3. Skopiuj plik `nemo.ini.example` i zmień jego nazwę na `nemo.ini`.
+3. Skopiuj plik `Nemo.ini.example` i zmień jego nazwę na `Nemo.ini`.
 4. Rozpocznij pracę.
 
 ### Testowanie skryptu instalatora
@@ -25,7 +25,7 @@ Official repository for a fan-made extension of Rex and Captain Nemo game.
 
 1. Clone the repository.
 2. Copy file `common/save/global_info.dta.example` and change its name to `global_info.dta`.
-3. Copy file `nemo.ini.example` and change its name to `nemo.ini`.
+3. Copy file `Nemo.ini.example` and change its name to `Nemo.ini`.
 4. Start working.
 
 ### Testing installator script
